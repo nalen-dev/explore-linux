@@ -8,6 +8,5 @@ int main(int argc, char *argv[]){
     
     printf("Real UUID: %d\n", getuid());
     printf("EFective UUID: %d\n", geteuid());
-    printf("Numb: %d", addNumb(2,5));
     return 0;
 }
